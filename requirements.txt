@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+sqlalchemy-utils
+werkzeug
+fastapi_jwt_auth
+fastapi-login
+python-multipart
